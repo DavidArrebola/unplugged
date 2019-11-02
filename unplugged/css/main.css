@@ -237,7 +237,14 @@ header nav ul {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
+}
+
+.faq .content-wrapper {
   margin: 50px 0 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
 }
 
 
