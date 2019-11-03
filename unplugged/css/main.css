@@ -586,7 +586,7 @@ footer .copyright {
 
          aside .content-wrapper .form-description,
          aside .content-wrapper .form {
-             width:45%;
+             width:30%;
          }
 
          /* Features */
@@ -595,7 +595,7 @@ footer .copyright {
          }
 
          .features article {
-             flex-basis: 33%;
+             flex-basis:35%;
          }
 
          /* Reviews */
