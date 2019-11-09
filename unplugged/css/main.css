@@ -147,7 +147,7 @@ textarea {
    }
 
    figure {
-
+     margin: 0;
    }
 
    address {
@@ -363,14 +363,14 @@ header nav ul {
   flex-flow: row wrap;
 }
 
-.map-container figure{
+.map figure{
   position: relative;
   padding-bottom: 75%;
   height: 0;
   overflow: hidden;
 }
 
-.map-container iframe{
+.map iframe{
   position: absolute;
   top: 0;
   left:0;
@@ -378,6 +378,10 @@ header nav ul {
   height: 100%;
 }
 
+
+.map .content-wrapper{
+
+}
 /* Footer */
 
 
