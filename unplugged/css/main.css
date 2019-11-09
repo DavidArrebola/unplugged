@@ -275,6 +275,11 @@ header nav ul {
   padding: 0 20px;
 }
 
+.features i {
+	font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 .features p {
   margin: 0;
 }
